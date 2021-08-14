@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+header{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(138, 65, 206, 0.842);
+    margin: 0.8%;
+
+}
+main{
+    height: 65vh;
+    margin: 0.8%;
+}
+.container1{
+ display: flex;
+ height: 30vh;
+}
+.into{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: rgba(138, 65, 206, 0.842);
+    margin-right: 0.6%;
+}
+.calltoaction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+  
+}
+.section2{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+.heroimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(138, 65, 206, 0.842);
+    flex-grow: 2;
+    margin-bottom: 1%;
+   
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+     background-color: rgba(138, 65, 206, 0.842);
+     margin: 0.7%;
+    
+}
+.container3{
+    display: flex;
+    min-height: 12vh;
+    margin: 0.8% 0.8% 1.2%;
+}
+.morecopy{
+    flex-grow: 1;
+    background-color: rgba(138, 65, 206, 0.842);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.6%;
+}
+.call{
+    flex-grow: 1;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(138, 65, 206, 0.842);
+    margin:0.8%;
+}
+
